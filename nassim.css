@@ -1,3 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* .nas1 {
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(/images/nassim3.jpg);
+  color: #fff;
+  padding: 6rem;
+  background-repeat: no-repeat;
+  /* height: 100px; */
+/* margin-bottom: 100px; */
+/* width: 40px; */
+/* height: 30px; */
+/* } */
+
 .nas1 {
   display: flex;
   padding: 20px;
@@ -24,3 +43,275 @@
 .nas6 {
   background-color: rgb(255, 252, 248);
 }
+
+.nas7 {
+  margin-left: 10px;
+}
+
+.nas8 {
+  display: flex;
+  padding: 30px;
+}
+
+.nas9 {
+  display: flex;
+  padding: 30px;
+  margin-top: 150px;
+}
+
+.nas10 {
+  background: whitesmoke;
+}
+
+.nas11 a {
+  font-weight: lighter;
+}
+
+/* .nas12 {
+  display: flex;
+  padding: 20px;
+} */
+
+.nas13 {
+  background-color: rgb(244, 255, 244);
+  padding: 5px;
+}
+
+.nas14 {
+  margin-left: 550px;
+  width: 200px;
+}
+
+.nas15 {
+  margin-right: 30px;
+  color: whitesmoke;
+}
+
+.nas16 {
+  margin-left: 3px;
+  color: whitesmoke;
+}
+
+.nas17 {
+  margin-left: 30px;
+  color: whitesmoke;
+}
+
+.nas19 {
+  background-color: rgb(7, 56, 7);
+}
+
+.nas20 {
+  position: relative;
+  right: 40px;
+}
+
+.nas21 {
+  position: relative;
+  right: 20px;
+}
+
+.nas22 {
+  position: relative;
+  left: 20px;
+}
+
+.nas23 {
+  position: relative;
+  left: 40px;
+}
+
+.nas24 {
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(/images/nassim14.jpg);
+  color: #fff;
+  padding: 6rem;
+  background-repeat: no-repeat;
+  margin-bottom: 100px;
+  width: 1250px;
+  height: 300px;
+}
+
+.nas25 {
+  display: flex;
+  padding: 20px;
+}
+
+.nas26 {
+  margin-left: 270px;
+}
+
+.nas27 {
+  margin-left: 250px;
+}
+
+.nas28 {
+  display: flex;
+}
+
+.nas29 {
+  margin-left: 200px;
+}
+
+.nas30 {
+  margin-left: 200px;
+}
+
+.nas31 {
+  margin-left: 200px;
+}
+
+.nas32 {
+  display: flex;
+}
+
+.nas33 {
+  margin-left: 200px;
+}
+
+.nas34 {
+  margin-left: 200px;
+}
+
+.nas35 {
+  margin-left: 200px;
+}
+
+.nas36 {
+  display: flex;
+  padding: 10px;
+}
+
+.nas37 {
+  margin-left: 200px;
+}
+
+.nas38 {
+  margin-left: 200px;
+}
+
+.nas39 {
+  margin-left: 200px;
+}
+
+.nas40 {
+  display: flex;
+  padding: 10px;
+}
+
+.nas41 {
+  margin-left: 200px;
+}
+
+.nas42 {
+  margin-left: 200px;
+}
+
+.nas43 {
+  margin-left: 200px;
+}
+
+.nas44 {
+  background-color: rgb(252, 249, 245);
+}
+
+.nas45 {
+  text-align: center;
+  background: rgb(241, 235, 222);
+  color: #fff;
+  padding: 6rem;
+  background-repeat: no-repeat;
+  margin-bottom: 100px;
+  width: 1250px;
+  height: 300px;
+}
+
+.nas46 {
+  display: flex;
+  padding: 20px;
+}
+
+.nas47 {
+  margin-left: 150px;
+}
+
+.nas48 {
+  display: flex;
+  padding: 20px;
+  padding-top: 120px;
+}
+
+.nas49 {
+  margin-left: 150px;
+}
+
+.nas50 {
+  margin-left: 150px;
+}
+
+.nas51 {
+  margin-left: 150px;
+}
+
+.nas52 {
+  display: flex;
+  padding: 20px;
+  padding-top: 180px;
+}
+
+.nas53 {
+  text-align: center;
+  background: rgb(241, 235, 222);
+  color: #fff;
+  padding: 6rem;
+  background-repeat: no-repeat;
+  margin-bottom: 100px;
+  width: 1250px;
+  height: 300px;
+}
+
+.nas54 {
+  padding-top: 50px;
+}
+
+.nas55 {
+  background-color: rgb(216, 252, 240);
+  padding: 20px;
+  width: 500px;
+}
+
+/* .nas59 {
+  margin-left: 850px;
+  padding: 20px;
+  position: relative;
+  bottom: 700px;
+} */
+
+/* Style the search field */
+form.nas58 input[type="text"] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-radius: 17px;
+  /* float: left; */
+  width: 380px;
+  background: white;
+}
+
+.nas60 {
+  margin-left: 60px;
+}
+
+/* .nas1 {
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(/images/GBC7.png);
+  color: #fff;
+  padding: 6rem;
+  background-repeat: no-repeat;
+  height: 100px;
+  margin-bottom: 100px;
+  width: 40px;
+  height: 30px;
+} */
