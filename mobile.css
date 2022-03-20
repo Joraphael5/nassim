@@ -402,11 +402,11 @@
   }
 
   .nas76 {
-    position: relative;
-    top: 5px;
+    width: 20px;
   }
 
   .nas78 {
+    bottom: 20px;
     left: 5px;
   }
 
@@ -435,12 +435,13 @@
   }
 
   .nas80 {
-    position: relative;
-    left: 8px;
+    /* position: relative; */
+    /* left: 8px; */
+    margin-left: 200px;
   }
 
   .nas30 {
-    width: 70%;
+    width: 100%;
     font-size: small;
   }
 
@@ -450,12 +451,13 @@
   }
 
   .nas81 {
-    position: relative;
-    left: 8px;
+    /* position: relative;
+    left: 8px; */
+    margin-left: 180px;
   }
 
   .nas34 {
-    width: 70%;
+    width: 100%;
     font-size: small;
   }
 
@@ -465,12 +467,13 @@
   }
 
   .nas82 {
-    position: relative;
-    left: 8px;
+    /* position: relative;
+    left: 8px; */
+    margin-left: 200px;
   }
 
   .nas38 {
-    width: 70%;
+    width: 100%;
     font-size: small;
   }
 
@@ -480,12 +483,13 @@
   }
 
   .nas83 {
-    position: relative;
-    left: 8px;
+    /* position: relative;
+    left: 8px; */
+    margin-left: 200px;
   }
 
   .nas42 {
-    width: 70%;
+    width: 100%;
     font-size: small;
   }
 
