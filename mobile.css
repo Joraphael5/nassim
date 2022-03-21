@@ -6,13 +6,21 @@
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
       url(/images/nassim3.jpg);
     color: #fff;
-    padding: 3rem;
-    background-repeat: repeat-y;
-    height: 900px;
+    padding: 1rem;
+    background-repeat: no-repeat;
+    height: 700px;
   }
 
   .nas2 {
     background: none;
+    position: relative;
+    left: 60px;
+  }
+
+  .nas63 {
+    width: 100%;
+    font-stretch: expanded;
+    font-size: smaller;
   }
 
   .nas61 {
@@ -321,13 +329,14 @@
   .nas1 {
     display: flex;
     background: none;
-    height: 669px;
+    height: 700px;
   }
 
   .nas2 {
     background-color: rgb(255, 247, 247);
     color: black;
     font-size: medium;
+    height: 630px;
   }
 
   .nas61 {
